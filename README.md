@@ -1,5 +1,4 @@
-Hello, If you are reading this from Thinkful, I decided to work on a different project than the
-Pirate Bartender Project for the Object Oriented Programming section.
+
 
 This is based on Chapter 15 of Eloquent Javascript.
 
